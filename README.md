@@ -5,15 +5,15 @@
 
 <div align="center">
   <a href="https://github.com/devRaelBraga">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=devRaelBraga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRaelBraga&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devRaelBraga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRaelBraga&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rael-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Rael-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="right" alt="Rael-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/unIj1Le.gif">
+  <img align="right" alt="Rael-pic" height="120" style="border-radius:50px;" src="https://i.imgur.com/unIj1Le.gif">
 </div>
 
 ##
