@@ -1,7 +1,7 @@
 ## Saudações! Me chamo Hisrael Braga
 
-- 🔭 Acadêmico de Engenharia de Computação na UEA, 3º período
-- 🌱 No momento, buscando aprender sobre **Machine Learning**
+- 💻 Acadêmico de Engenharia de Computação na UEA, 3º período
+- 💾 No momento, buscando aprender sobre **Machine Learning**
 
 <div align="center">
   <a href="https://github.com/devRaelBraga">
