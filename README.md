@@ -2,7 +2,7 @@
 
 - 💻 Acadêmico de Engenharia de Computação na UEA, 4º período
 - 👾 Atualmente trabalhando no LUDUS-UEA
-- 🎮 No momento, buscando aprender sobre **Game Development**
+- 🎮 No momento, buscando aprender sobre **Web Development**
 
 <div align="center">
   <a href="https://github.com/devRaelBraga">
