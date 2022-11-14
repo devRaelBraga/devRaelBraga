@@ -14,7 +14,7 @@
   <img align="center" alt="Rael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rael-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Rael-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="right" alt="Rael-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/unIj1Le.gif">
+  <img align="right" alt="Rael-pic" height="150" style="border-radius:50px;" src="https://1.bp.blogspot.com/-U76zJ1jVnL4/WH4MO2JsI_I/AAAAAAAAtsg/pO_Nsab7YN8gBsc8MyY8Qp0S4QLjkmUvwCLcB/s1600/diboas%2Besperando%2Ba%2Bmorte.gif">
 </div>
 
 ##
