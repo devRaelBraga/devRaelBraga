@@ -1,7 +1,7 @@
 ## Saudações! Me chamo Hisrael Braga
 
 - 💻 Acadêmico de Engenharia de Computação na UEA, 6º período
-- 👾 Atualmente trabalhando no LUDUS-UEA
+- 👾 Atualmente trabalhando no LUDUSLAB
 - 🎮 No momento, buscando aprender sobre **Web Development**
 
 <div align="center">
