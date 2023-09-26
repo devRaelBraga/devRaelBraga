@@ -1,7 +1,7 @@
 ## Salve! Me chamo Hisrael Braga
 
 - 💻 Acadêmico de Engenharia de Computação na UEA, 8º período
-- 🎮 No momento, buscando me aprofundar em **Back-end Development**
+- 🎮 No momento, buscando me aprofundar em **Back-end Development, Design Patterns e TDD**
 
 <div align="center">
   <a href="https://github.com/devRaelBraga">
